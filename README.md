@@ -1,14 +1,14 @@
-# Netflix Content Analysis
+Netflix Content Analysis
 
-## Project Overview
+Project Overview
 
 This project analyzes Netflix's content library using Python, Pandas, and Matplotlib.
 
-The goal was to perform Exploratory Data Analysis (EDA) and uncover trends related to content growth, genres, ratings, countries, and content distribution.
+The objective was to perform Exploratory Data Analysis (EDA) to uncover trends in content growth, genre distribution, ratings, countries, directors, and content release patterns.
 
----
+------------------------------------------------------------
 
-## Tools Used
+Tools Used
 
 - Python
 - Pandas
@@ -16,61 +16,101 @@ The goal was to perform Exploratory Data Analysis (EDA) and uncover trends relat
 - Matplotlib
 - Google Colab
 
----
+------------------------------------------------------------
 
-## Dataset
+Dataset
 
 Netflix Movies and TV Shows Dataset
 
 Total Records: 8807+
 
----
+------------------------------------------------------------
 
-## Business Questions Answered
+Business Questions Answered
 
-1. Movies vs TV Shows distribution
-2. Top countries producing Netflix content
-3. Netflix growth over time
-4. Most common genres
-5. Rating distribution
-6. Monthly content addition trends
-7. Top directors on Netflix
-8. Movie vs TV growth analysis
+1. Movies vs TV Shows Distribution
+2. Top Countries Producing Netflix Content
+3. Netflix Content Growth Over Time
+4. Most Common Genres
+5. Rating Distribution
+6. Monthly Content Addition Trends
+7. Top Directors on Netflix
+8. Movie vs TV Growth Analysis
 
----
+------------------------------------------------------------
 
 Key Insights
 
-- Movies dominate Netflix's content catalog.
-- United States contributes the highest amount of content.
-- Netflix experienced rapid content growth after 2016.
-- Drama and International Movies are the most popular genres.
-- TV-MA is the most common rating category.
+• Movies dominate Netflix's content catalog.
 
----
+• The United States contributes the highest amount of content.
 
-Sample Visualizations
+• Netflix experienced rapid content growth after 2016.
+
+• Drama and International Movies are among the most common genres.
+
+• TV-MA is the most common content rating.
+
+• Certain months show higher content additions than others.
+
+------------------------------------------------------------
 
 Movies vs TV Shows
 
-![Movies vs TV](movies_vs_tv.png)
+![Movies vs TV Shows](movies_vs_tv.png)
 
-Top Countries
+------------------------------------------------------------
 
-![Countries](top_countries.png)
+Top Countries Producing Netflix Content
 
-Netflix Growth
+![Top Countries](top_countries.png)
 
-![Growth](growth_over_time.png)
+------------------------------------------------------------
+
+Netflix Content Growth Over Time
+
+![Growth Over Time](growth_over_time.png)
+
+------------------------------------------------------------
 
 Genre Distribution
 
-![Genres](genres.png)
+![Genre Distribution](genres.png)
 
+------------------------------------------------------------
 
+Content Ratings Distribution
 
+![Ratings Distribution](ratings.png)
 
----
+------------------------------------------------------------
+
+Monthly Content Addition Trend
+
+![Monthly Content Trend](monthly_content.png)
+
+------------------------------------------------------------
+
+Top Directors on Netflix
+
+![Top Directors](top_directors.png)
+
+------------------------------------------------------------
+
+Project Files
+
+- Netflix_Analysis.ipynb
+- netflix_titles.csv
+- movies_vs_tv.png
+- top_countries.png
+- growth_over_time.png
+- genres.png
+- ratings.png
+- monthly_content.png
+- top_directors.png
+
+------------------------------------------------------------
+
 Author
 
 Sakshi Kale
