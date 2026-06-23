@@ -93,7 +93,7 @@ Monthly Content Addition Trend
 
 Top Directors on Netflix
 
-![Top Directors](top_directors.png)
+![Top Directors](top_Directors.png)
 
 ------------------------------------------------------------
 
